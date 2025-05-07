@@ -5,7 +5,7 @@ function Login() {
 
   return (
     <>
-    <div className='text-yellow-300 font-bold'>Hello</div>
+        <div className='text-red-500'>Hello</div>
     </>
   )
 }
